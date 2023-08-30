@@ -37,4 +37,4 @@ make
 ```
 Please note that this program was originally sourced from the official ITC2007 competition website (https://www.cs.qub.ac.uk/itc2007/), which may no longer be available.
 
-6. To embed neighbourhoods into the framework of Simulated Annealing, note that this software makes use of EasyLocal++. For more information on this fantastic piece of software, refer to https://bitbucket.org/satt/easylocal-3/src/no_output/.
+6. To embed neighbourhoods into the framework of Simulated Annealing, note that this software makes use of EasyLocal++. For more information on this fantastic piece of software, refer to https://bitbucket.org/satt/easylocal-3/src/no_output/. Furthermore, initial solutions were generated with the software by Alsuwaylimi and Fieldsend, see https://github.com/alsuwaylimi/Initialisation-Method-Project.
